@@ -238,13 +238,40 @@ scene-classification-efficientnet/
 
 ---
 
-## 👤 Author
+## 🏆 Hackathon Project
 
-**Samar**
+This project was developed as part of an ML-focused hackathon by a collaborative team. The objective was to build a scalable scene classification system capable of recognizing 397 scene categories from over 60,000 images using modern deep learning and transfer learning techniques.
 
-- GitHub: [github.com/your-username](https://github.com/Samarcodesinpython)
+The project leverages EfficientNet-B2, mixed-precision training (AMP), label smoothing, OneCycleLR scheduling, and Test Time Augmentation (TTA) to improve performance on the challenging SUN397 benchmark dataset.
 
 ---
+
+## 👥 Authors & Contributors
+
+### Harshita Pokhariya
+
+* Model experimentation and evaluation
+* Dataset preprocessing and preparation
+* Performance analysis using Accuracy and F1 metrics
+* Documentation and project presentation
+* Training pipeline optimization and testing
+
+GitHub: https://github.com/harshitapokhariya
+
+### Samar Jamal
+
+* Project architecture and implementation
+* Deep learning pipeline development
+* Model training and optimization
+* Integration of EfficientNet-B2 and training strategies
+
+GitHub: https://github.com/Samarjamal326
+
+---
+
+## 🤝 Collaboration Note
+
+This repository is maintained as part of a team-developed hackathon project. Contributions were made collaboratively across data preparation, model development, experimentation, evaluation, optimization, and documentation. The project demonstrates practical experience in large-scale image classification, transfer learning, and deep learning model evaluation.
 
 ## 📄 License
 
